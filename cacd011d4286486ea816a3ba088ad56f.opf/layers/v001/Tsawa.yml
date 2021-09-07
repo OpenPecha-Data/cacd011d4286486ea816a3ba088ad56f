@@ -1,4 +1,64 @@
 id: fdbf621a679e47e9b3acc53ec85769bc
 annotation_type: Tsawa
-revision: '00001'
-annotations: {}
+revision: '00002'
+annotations:
+  90559dc5054a4eb3949b3f78e3bd8481:
+    span:
+      start: 845
+      end: 916
+    metadata:
+      css_class_name: tibetan-root-text
+  d9da04b9dfef4c81b259249a4a12d567:
+    span:
+      start: 918
+      end: 994
+    metadata:
+      css_class_name: tibetan-root-text
+  e0b4fdf36ee341f8848093ca67e3e598:
+    span:
+      start: 996
+      end: 1057
+    metadata:
+      css_class_name: tibetan-root-text
+  a57f12804c3644bbb6f580b78a00e7fe:
+    span:
+      start: 4010
+      end: 4286
+    metadata:
+      css_class_name: tibetan-root-text-in-verse
+  ea6932e3940f418f9d285b8f157d8d64:
+    span:
+      start: 4398
+      end: 4486
+    metadata:
+      css_class_name: tibetan-root-text
+  f188bb9331c54f97a967d82b39a00a98:
+    span:
+      start: 4488
+      end: 4561
+    metadata:
+      css_class_name: tibetan-root-text
+  bd0447ec796f4a518958ec3b390abdff:
+    span:
+      start: 4563
+      end: 4640
+    metadata:
+      css_class_name: tibetan-root-text
+  7ef6167407af423db4e0c56b59eb28c5:
+    span:
+      start: 4642
+      end: 4716
+    metadata:
+      css_class_name: tibetan-root-text
+  9ca712dacd3c4ecc85587a8f10688331:
+    span:
+      start: 4718
+      end: 4786
+    metadata:
+      css_class_name: tibetan-root-text
+  a079b1ec94d04321b9db1471ede985d3:
+    span:
+      start: 4788
+      end: 4838
+    metadata:
+      css_class_name: tibetan-root-text
