@@ -1,4 +1,49 @@
 id: fa6ea0868fd6447a892fa7f788501a5e
 annotation_type: Sabche
-revision: '00001'
-annotations: {}
+revision: '00003'
+annotations:
+  29d98f03c0364cbcbaeba23081e04a7a:
+    span:
+      start: 1061
+      end: 1218
+    metadata: {}
+  c6ae660582ab4a06b161a0464960b697:
+    span:
+      start: 1220
+      end: 1252
+    metadata: {}
+  e2f774c54d5840ddbbc510bfa6163528:
+    span:
+      start: 1680
+      end: 1738
+    metadata: {}
+  de16cc24ea6c4cfbb3469e7f6888fb07:
+    span:
+      start: 1740
+      end: 1808
+    metadata: {}
+  31b59301546c4d6586932966a75c2a27:
+    span:
+      start: 1810
+      end: 1877
+    metadata: {}
+  692c0a8aa72c47daa47abebbc007d4a4:
+    span:
+      start: 1879
+      end: 1947
+    metadata: {}
+  837e9e3994184ac38a176f90a1503982:
+    span:
+      start: 1949
+      end: 2023
+    metadata: {}
+  21b693d875ee425dbe2a9170fd74e6c0:
+    span:
+      start: 2025
+      end: 2094
+    metadata: {}
+  10c8d8dde70a43ca9fa235d141f6c044:
+    span:
+      start: 2096
+      end: 2149
+    metadata: {}
